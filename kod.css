@@ -1,0 +1,30 @@
+.theme {
+    background-color: coral;
+}
+.text {
+    text-align: center;
+}
+.hak {
+    color: crimson;
+}
+h1 {
+    color: blue;
+    font-size: 20px;
+    display: inline-block;
+    padding: 16px;
+    background-color: bisque;
+    border: 1px solid black;
+    border-radius: 16px;
+}
+h1:hover {
+    background-color: white;
+}
+p {
+    font-size: 40px;
+}
+.fs-40 {
+    font-size: 30px;
+}
+li {
+    font-size: 20px;
+}
